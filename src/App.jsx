@@ -13,12 +13,12 @@ function App() {
     <div className="main">
       <p className="position-sticky">
         <span>
-          <a href="/create" className="btn btn-primary me-3">
+          <a href="#" className="btn btn-primary me-3">
             HOME
           </a>
         </span>
         <span>
-          <a href="/read" className="btn btn-primary">
+          <a href="#" className="btn btn-primary">
             Update/Delete
           </a>
         </span>
